@@ -1,2 +1,4 @@
-### Currently trying to learn Java
+### Currently trying to learn Java  
+
+
 ![Some stats](https://github-readme-stats.vercel.app/api?username=amogusman01&show_icons=true&theme=radical)
